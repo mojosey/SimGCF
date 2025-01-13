@@ -11,4 +11,3 @@ conda env create -f environment.yaml
 ```
 python run.py --dataset gowalla
 ```
-# SimGCF
